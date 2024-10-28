@@ -1,0 +1,18 @@
+{
+  "name": "enerchain",
+  "version": "1.0.0",
+  "description": "DApp for knowledge model sharing on EnerChain",
+  "main": "index.js",
+  "dependencies": {
+    "ethers": "^5.6.0",
+    "ipfs-http-client": "^50.1.2",
+    "next": "^12.0.7",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  }
+}
