@@ -1,4 +1,3 @@
-// components/UploadForm.js
 import { useState } from 'react';
 import { uploadToIPFS } from '../utils/ipfs';
 import { storeModelHash } from '../utils/blockchain';
